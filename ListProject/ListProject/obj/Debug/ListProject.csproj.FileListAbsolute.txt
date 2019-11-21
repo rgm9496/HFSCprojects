@@ -1,0 +1,7 @@
+H:\CompSciCode\ListProject\ListProject\bin\Debug\ListProject.exe.config
+H:\CompSciCode\ListProject\ListProject\bin\Debug\ListProject.exe
+H:\CompSciCode\ListProject\ListProject\bin\Debug\ListProject.pdb
+H:\CompSciCode\ListProject\ListProject\obj\Debug\ListProject.csprojAssemblyReference.cache
+H:\CompSciCode\ListProject\ListProject\obj\Debug\ListProject.csproj.CoreCompileInputs.cache
+H:\CompSciCode\ListProject\ListProject\obj\Debug\ListProject.exe
+H:\CompSciCode\ListProject\ListProject\obj\Debug\ListProject.pdb

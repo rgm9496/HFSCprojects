@@ -1,0 +1,11 @@
+H:\CompSciCode\CoachProject\CoachProject\bin\Debug\netcoreapp2.0\CoachProject.deps.json
+H:\CompSciCode\CoachProject\CoachProject\bin\Debug\netcoreapp2.0\CoachProject.runtimeconfig.json
+H:\CompSciCode\CoachProject\CoachProject\bin\Debug\netcoreapp2.0\CoachProject.runtimeconfig.dev.json
+H:\CompSciCode\CoachProject\CoachProject\bin\Debug\netcoreapp2.0\CoachProject.dll
+H:\CompSciCode\CoachProject\CoachProject\bin\Debug\netcoreapp2.0\CoachProject.pdb
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.csprojAssemblyReference.cache
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.csproj.CoreCompileInputs.cache
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.AssemblyInfoInputs.cache
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.AssemblyInfo.cs
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.dll
+H:\CompSciCode\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.pdb
