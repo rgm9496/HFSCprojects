@@ -1,0 +1,11 @@
+H:\CompSciCode\PersonExample\PersonExample\bin\Debug\netcoreapp2.0\PersonExample.deps.json
+H:\CompSciCode\PersonExample\PersonExample\bin\Debug\netcoreapp2.0\PersonExample.runtimeconfig.json
+H:\CompSciCode\PersonExample\PersonExample\bin\Debug\netcoreapp2.0\PersonExample.runtimeconfig.dev.json
+H:\CompSciCode\PersonExample\PersonExample\bin\Debug\netcoreapp2.0\PersonExample.dll
+H:\CompSciCode\PersonExample\PersonExample\bin\Debug\netcoreapp2.0\PersonExample.pdb
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.csprojAssemblyReference.cache
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.csproj.CoreCompileInputs.cache
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.AssemblyInfoInputs.cache
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.AssemblyInfo.cs
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.dll
+H:\CompSciCode\PersonExample\PersonExample\obj\Debug\netcoreapp2.0\PersonExample.pdb

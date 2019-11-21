@@ -1,0 +1,10 @@
+H:\CompSciCode\mathQuiz\mathQuiz\bin\Debug\netcoreapp2.0\mathQuiz.deps.json
+H:\CompSciCode\mathQuiz\mathQuiz\bin\Debug\netcoreapp2.0\mathQuiz.runtimeconfig.json
+H:\CompSciCode\mathQuiz\mathQuiz\bin\Debug\netcoreapp2.0\mathQuiz.runtimeconfig.dev.json
+H:\CompSciCode\mathQuiz\mathQuiz\bin\Debug\netcoreapp2.0\mathQuiz.dll
+H:\CompSciCode\mathQuiz\mathQuiz\bin\Debug\netcoreapp2.0\mathQuiz.pdb
+H:\CompSciCode\mathQuiz\mathQuiz\obj\Debug\netcoreapp2.0\mathQuiz.csproj.CoreCompileInputs.cache
+H:\CompSciCode\mathQuiz\mathQuiz\obj\Debug\netcoreapp2.0\mathQuiz.AssemblyInfoInputs.cache
+H:\CompSciCode\mathQuiz\mathQuiz\obj\Debug\netcoreapp2.0\mathQuiz.AssemblyInfo.cs
+H:\CompSciCode\mathQuiz\mathQuiz\obj\Debug\netcoreapp2.0\mathQuiz.dll
+H:\CompSciCode\mathQuiz\mathQuiz\obj\Debug\netcoreapp2.0\mathQuiz.pdb

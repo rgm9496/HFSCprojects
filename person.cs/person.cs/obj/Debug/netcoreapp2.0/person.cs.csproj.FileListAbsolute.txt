@@ -1,0 +1,4 @@
+H:\CompSciCode\person.cs\person.cs\obj\Debug\netcoreapp2.0\person.cs.csprojAssemblyReference.cache
+H:\CompSciCode\person.cs\person.cs\obj\Debug\netcoreapp2.0\person.cs.csproj.CoreCompileInputs.cache
+H:\CompSciCode\person.cs\person.cs\obj\Debug\netcoreapp2.0\person.cs.AssemblyInfoInputs.cache
+H:\CompSciCode\person.cs\person.cs\obj\Debug\netcoreapp2.0\person.cs.AssemblyInfo.cs
