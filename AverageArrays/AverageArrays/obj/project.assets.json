@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\CompSciCode\\AverageArrays\\AverageArrays\\AverageArrays.csproj",
+      "projectUniqueName": "H:\\repostitory mbr\\HFSCprojects\\AverageArrays\\AverageArrays\\AverageArrays.csproj",
       "projectName": "AverageArrays",
-      "projectPath": "H:\\CompSciCode\\AverageArrays\\AverageArrays\\AverageArrays.csproj",
+      "projectPath": "H:\\repostitory mbr\\HFSCprojects\\AverageArrays\\AverageArrays\\AverageArrays.csproj",
       "packagesPath": "C:\\Users\\rgm9496\\.nuget\\packages\\",
-      "outputPath": "H:\\CompSciCode\\AverageArrays\\AverageArrays\\obj\\",
+      "outputPath": "H:\\repostitory mbr\\HFSCprojects\\AverageArrays\\AverageArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

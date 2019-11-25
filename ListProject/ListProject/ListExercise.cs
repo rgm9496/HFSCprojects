@@ -30,7 +30,7 @@ namespace ListProject
             return position;
         }
         public int FindPositionOfName(string theName)
-        {
+        { 
             for (int i = 0; i < nextFreeLocation; i++)
             {
                 if (names[i] == theName)
